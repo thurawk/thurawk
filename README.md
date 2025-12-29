@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Thura 👋
 
-<!--
-**thurawk/thurawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on building practical machine learning systems,
+with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 
-Here are some ideas to get you started:
+## 🔍 Current Focus
+- Retrieval-Augmented Generation (RAG)
+- LangChain, FAISS, BM25
+- FastAPI-based ML systems
+- Model evaluation and experimentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: Python
+- **ML / AI**: Scikit-learn, LangChain
+- **Backend**: FastAPI
+- **Tools**: Git, Docker (learning), Jupyter
+
+## 🚀 Featured Projects
+- **RAG Chatbot**  
+  End-to-end RAG system using LangChain, FAISS, and BM25  
+  👉 https://github.com/thurawk/rag-chatbot
+
+- **Customer Segmentation**  
+  Unsupervised learning project using clustering techniques  
+  👉 https://github.com/thurawk/customer-segmentation
+
+- **Iris Classification**  
+  Supervised ML pipeline with model comparison  
+  👉 https://github.com/thurawk/iris-classification
+
+## 🌐 Links
+- Portfolio: https://thurawk.github.io
+- GitHub: https://github.com/thurawk
