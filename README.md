@@ -34,7 +34,7 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
   👉 https://github.com/thurawk/iris-classification
 
 - **Text Classification**
-  Text Classification with Supervised Machine Learning using multiple algorithms to classify text into topics
+  Text Classification with Supervised Machine Learning using multiple algorithms to classify text into topics  
   👉 https://github.com/thurawk/text-classification
 
 ## 🌐 Links
