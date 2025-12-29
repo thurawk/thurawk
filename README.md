@@ -5,7 +5,7 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 
 ## 🔍 Current Focus
 - Retrieval-Augmented Generation (RAG)
-- LangChain, FAISS, BM25
+- LangChain, Qdrant, BM25
 - FastAPI-based ML systems
 - Model evaluation and experimentation
 
