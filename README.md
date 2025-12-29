@@ -4,7 +4,7 @@ AI/ML Engineer focused on building practical machine learning systems,
 with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 
 ## 🔍 Current Focus
-- Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG), Prompt Engineering
 - LangChain, Qdrant, BM25
 - FastAPI-based ML systems
 - Model evaluation and experimentation
