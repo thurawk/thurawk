@@ -5,7 +5,7 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 
 ## 🔍 Current Focus
 - Retrieval-Augmented Generation (RAG), Prompt Engineering, AI+Bio
-- LangChain, Qdrant, FAISS BM25, LLMs
+- LangChain, Qdrant, FAISS, BM25, LLMs
 - FastAPI-based ML systems
 - Model evaluation and experimentation
 - End-to-end AI systems: retrieval, generation, evaluation, and tooling
@@ -32,6 +32,10 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 - **Iris Classification**  
   Supervised ML pipeline with model comparison  
   👉 https://github.com/thurawk/iris-classification
+
+- **Text Classification**
+  Text Classification with Supervised Machine Learning using multiple algorithms to classify text into topics
+  👉 https://github.com/thurawk/text-classification
 
 ## 🌐 Links
 - Portfolio: https://thurawk.github.io
