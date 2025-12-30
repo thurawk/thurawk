@@ -12,7 +12,7 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 
 ## 🛠 Tech Stack
 - **Languages**: Python
-- **ML / AI**: Scikit-learn, LangChain
+- **ML / AI**: Scikit-learn, LangChain, Supervised, Unsupervised learning
 - **Backend**: FastAPI, MCP
 - **Tools**: Git, Docker (learning), Jupyter
 
