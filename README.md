@@ -11,7 +11,7 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
 - End-to-end AI systems: retrieval, generation, evaluation, and tooling
 
 ## 🛠 Tech Stack
-- **Languages**: Python
+- **Languages**: Python, C, MATLAB
 - **ML / AI**: Scikit-learn, LangChain, Supervised, Unsupervised learning
 - **Backend**: FastAPI, MCP
 - **Tools**: Git, Docker (learning), Jupyter
