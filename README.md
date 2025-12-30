@@ -33,11 +33,10 @@ with an interest in **RAG pipelines, NLP, and ML-backed applications**.
   Supervised ML pipeline with model comparison  
   👉 https://github.com/thurawk/iris-classification
 
-- **Text Classification**
+- **Text Classification**  
   Text Classification with Supervised Machine Learning using multiple algorithms to classify text into topics  
   👉 https://github.com/thurawk/text-classification
 
 ## 🌐 Links
-- Portfolio: https://thurawk.github.io
-- GitHub: https://github.com/thurawk
+- Website: https://thurawk.github.io
 - LinkedIn: https://www.linkedin.com/in/thura-win-kyaw-b111762a3/
