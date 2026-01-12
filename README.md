@@ -1,4 +1,4 @@
-# Hi, I'm Thura
+# Hi, I'm Thura Win Kyaw
 
 AI/ML Engineer focused on building practical machine learning systems,
 actively learning and experimenting with **RAG pipelines, NLP, and ML-backed applications**.
@@ -7,14 +7,12 @@ actively learning and experimenting with **RAG pipelines, NLP, and ML-backed app
 - Retrieval-Augmented Generation (RAG), Prompt Engineering, AI + Bio
 - LangChain, Vector DB (Qdrant), FAISS, BM25, LLMs
 - FastAPI-based ML systems
-- Model evaluation and experimentation
 - End-to-end AI systems: retrieval, generation, evaluation, and tooling
 
 ## 📚 Currently Learning
-- Supervised & Unsupervised Learning (deeper understanding)
+- AgenticRAG, GraphRAG
 - Reinforcement Learning (foundations)
 - Information Retrieval (ranking, hybrid search)
-- Agentic RAG systems
 
 ## 🛠 Tech Stack
 - **Languages**: C, Python
