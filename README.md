@@ -36,7 +36,6 @@
 - 💼 I'm currently working on: **💻 End-to-end AI+Bio systems: RAG, LangChain, and tooling**
 - 🌱 I'm currently learning: **📚 AgenticRAG, GraphRAG, Reinforcement Learning**
 - 💬 Ask me about: **💡 RAG, LangChain**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
 
