@@ -22,7 +22,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **End-to-end AI+Bio systems: RAG, LangChain, LLMs(Ollama)**
-- 🌱 I'm currently learning: **AgenticRAG, GraphRAG**
+- 🌱 I'm currently learning: **AgenticRAG, GraphRAG, Reinforcement Learning (RL)**
 - 💬 Ask me about: **RAG, LangChain**
 - 📂 Portfolio: **<a href="https://thurawk.github.io/" target="_blank">https://thurawk.github.io/</a>**
 
