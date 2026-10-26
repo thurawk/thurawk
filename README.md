@@ -22,7 +22,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **End-to-end AI+Bio systems: RAG, LangChain, LLMs(Ollama)**
-- 🌱 I'm currently learning: **AgenticRAG, GraphRAG, Reinforcement Learning (RL)**
+- 🌱 I'm currently learning: **AgenticRAG, Reinforcement Learning (RL)**
 - 💬 Ask me about: **RAG, LangChain**
 - 📂 Portfolio: **<a href="https://thurawk.github.io/" target="_blank">https://thurawk.github.io/</a>**
 
@@ -37,12 +37,6 @@
 
 ### Data & Analysis
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="28">
-
-### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="28"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28">
-
-### Vector Databases
-<img src="https://img.shields.io/badge/FAISS-005571?logo=meta&logoColor=white" height="28"><img src="https://img.shields.io/badge/Qdrant-FF4F8B?logo=qdrant&logoColor=white" height="28">
 
 ### Tools
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28"><img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" height="28"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28">
